@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: aiworklabs/workshop:latest
+        image: rajinikanthvadla/dockerchappie:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
